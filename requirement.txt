@@ -1,0 +1,6 @@
+Required Libraries
+
+[1] pip install opencv
+[2] pip install mediapipe
+[3] pip install cvzone
+[4] pip install tensorflow
